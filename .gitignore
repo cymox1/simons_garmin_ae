@@ -1,0 +1,9 @@
+# Connect IQ build output
+bin/
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+*.swp
